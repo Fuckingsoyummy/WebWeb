@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+h1{
+    color: rgb(15, 110, 110);
+
+    font-family: 'Bebas Neue', sans-serif;
+}
+h3{
+    color: rgb(19, 10, 58);
+    font-family: 'Bebas Neue', sans-serif;
+}
+p{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+}
+.grid{
+    border: 1px solid pink;
+display: grid;
+grid-template-columns: 300px 1fr;
+grid-template-rows: 400px;}
+.목차{ 
+    border: 1px solid pink;
+}
